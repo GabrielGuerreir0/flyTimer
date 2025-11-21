@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 import { Home } from "./pages/Home";
 import { History } from "./pages/History";
-import { DefaltLayout } from "./layouts/DefaulltLayout";
+import { DefaltLayout } from "./layouts/DefaultLayout";
 export function Router() {
   return (
     <Routes>
