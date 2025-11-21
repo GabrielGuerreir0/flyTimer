@@ -3,7 +3,7 @@ import { HeaderContainer } from "./styles";
 export function Header() {
   return (
     <HeaderContainer>
-      <span>Logo</span>
+      <img src="logo.png" alt="Logo" />
       <nav>
         <a href="">timer</a>
         <a href="">history</a>
