@@ -7,6 +7,7 @@ export function Header() {
       <nav>
         <a href="">timer</a>
         <a href="">history</a>
+        <a href="">settings</a>
       </nav>
     </HeaderContainer>
   );
